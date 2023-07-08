@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+This is the place where I do my best work: build software and break things 🤣
+
+- 🔭 I’m currently working on cool things
+- 🌱 I’m currently leaning applications of AI with MML models and the latest improvement in the React framework
+- 💬 Ask me about Ruby on Rails, React, NodeJS and LLM models
+- 📫 How to reach me: me@kaiomagalhaes.com
+- ⚡ Fun fact: I have a cat named Tequila and one Named Khalua
+
 # Blog posts
 
 - [The importance of a design system for the engineering team](https://kaiomagalhaes.com/blog/The-importance-of-a-design-system-for-the-engineering-team)
@@ -12,12 +20,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

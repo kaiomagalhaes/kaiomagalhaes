@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+- [The importance of a design system for the engineering team](https://kaiomagalhaes.com/blog/The-importance-of-a-design-system-for-the-engineering-team)
+- [The importance of a design system when building products](https://kaiomagalhaes.com/blog/The-importance-of-a-design-system-when-building-products)
+- [Sensitive data storage made easy](https://kaiomagalhaes.com/blog/Sensitive-data-storage-made-easy)
+- [Free SSL with Docker and NGINX](https://kaiomagalhaes.com/blog/A-Free-SSL-with-docker-and-nginx)
 
 <!--
 **kaiomagalhaes/kaiomagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

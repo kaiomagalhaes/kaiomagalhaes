@@ -8,7 +8,7 @@ This is the place where I do my best work: build software and break things 🤣
 - 📫 How to reach me: me@kaiomagalhaes.com
 - ⚡ Fun fact: I have a cat named Tequila and one Named Khalua
 
-# Blog posts
+# Blogposts
 
 - [The importance of a design system for the engineering team](https://kaiomagalhaes.com/blog/The-importance-of-a-design-system-for-the-engineering-team)
 - [The importance of a design system when building products](https://kaiomagalhaes.com/blog/The-importance-of-a-design-system-when-building-products)

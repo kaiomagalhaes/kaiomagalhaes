@@ -6,6 +6,7 @@ This is the place where I do my best work: build software and break things 🤣
 - 🌱 I’m currently learning applications of AI with MML models and the latest improvement in the React framework
 - 💬 Ask me about Ruby on Rails, React, NodeJS, and LLM models
 - 📫 How to reach me: me@kaiomagalhaes.com
+- 📜 Fluent in English and Portuguese 🇧🇷
 - ⚡ Fun fact: I have a cat named Tequila and one Named Khalua
 
 # Blogposts

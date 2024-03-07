@@ -11,6 +11,7 @@ This is the place where I do my best work: build software and break things 🤣
 
 # Blogposts
 
+- [How to keep building your engineering skills as a CTO](https://kaiomagalhaes.com/blog/Staying-technical-as-a-CTO)
 - [The importance of a design system for the engineering team](https://kaiomagalhaes.com/blog/The-importance-of-a-design-system-for-the-engineering-team)
 - [The importance of a design system when building products](https://kaiomagalhaes.com/blog/The-importance-of-a-design-system-when-building-products)
 - [Sensitive data storage made easy](https://kaiomagalhaes.com/blog/Sensitive-data-storage-made-easy)
